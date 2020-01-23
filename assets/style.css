@@ -1,5 +1,4 @@
 
- 
  .img1{
 
 width:550px;
@@ -47,3 +46,7 @@ z-index:2;
     * html .threepxfix{
     margin-left: 3px;
     } 
+
+    footer {
+        background-color:rgb(68, 65, 65);
+    }
