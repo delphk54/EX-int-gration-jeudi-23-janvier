@@ -47,6 +47,11 @@ z-index:2;
     margin-left: 3px;
     } 
 
-    footer {
+   footer {
         background-color:rgb(68, 65, 65);
     }
+    
+   .col-6{
+       background-color: black;
+       
+   }
